@@ -1,2 +1,2 @@
 # Projects
-Some projects that I did to learn hands-on experience
+Some individual projects that I completed in order to gain hands-on experience and critical technical skills
